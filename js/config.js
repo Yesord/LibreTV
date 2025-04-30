@@ -12,10 +12,10 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
-    url: 'https://libretv.is-an.org',
+    name: 'NolenTV',
+    url: 'https://video.yesord.top',
     description: '免费在线视频搜索与观看平台',
-    logo: 'https://images.icon-icons.com/38/PNG/512/retrotv_5520.png',
+    logo: 'https://imgbed.yesord.top/file/video/1745978022654_xiangsufeng_dianshiji.png',
     version: '1.0.3'
 };
 
